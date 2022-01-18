@@ -1,0 +1,29 @@
+{
+  "name": "leo-oliveira.github.io",
+  "version": "1.0.0",
+  "description": "Bootcamp Repo",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basslpo/Leo-oliveira.github.io.git"
+  },
+  "keywords": [
+    "lowdown"
+  ],
+  "author": "leo-oliveira.github.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basslpo/Leo-oliveira.github.io/issues"
+  },
+  "homepage": "https://github.com/basslpo/Leo-oliveira.github.io#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "i": "^0.3.7",
+    "istanbul": "^0.4.5",
+    "mocha": "^9.1.4",
+    "sinon": "^12.0.1"
+  }
+}
